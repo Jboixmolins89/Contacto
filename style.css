@@ -1,2 +1,12 @@
-table { width: 65%; 
-        text-align: center;}
+table { width: 100%; 
+        text-align: right; }
+
+td { text-align: left; 
+    background-color: khaki;}
+
+tr { background-color: greenyellow; 
+    border: black 0.5px solid; }
+
+input.button { background-color: black; 
+            float: right;
+            color: white;}
