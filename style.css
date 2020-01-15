@@ -10,3 +10,5 @@ tr { background-color: greenyellow;
 input.button { background-color: black; 
             float: right;
             color: white;}
+iframe {text-align: center; 
+        width: 100%;}
